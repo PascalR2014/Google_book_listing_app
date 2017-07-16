@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radius_elevation">2dp</dimen>
+    <dimen name="title">16sp</dimen>
+    <dimen name="author">12sp</dimen>
+    <dimen name="margin_search_button">16dp</dimen>
+    <dimen name="paddingLeft">4dp</dimen>
+    <dimen name="textSizeTitle">16sp</dimen>
+    <dimen name="textSizeRest">12sp</dimen>
+    <dimen name="marginLinearLayout">16dp</dimen>
+</resources>
